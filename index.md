@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Sushant's Blog
 
-I'm glad you are here. I plan to talk about ...
+Space to enjoy my writings.
